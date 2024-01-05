@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthika</h1>
 <h3 align="center">Passionate MERN Stack Developer 🚀 | Crafting seamless web experiences with MongoDB, Express.js, React, and Node.js | Code enthusiast and problem solver 💻</h3>
 
-- 🔭 I’m currently working on [Class Library](https://github.com/karthika-49/classlibrary)
-
 - 🌱 I’m currently learning **MERN stack**
 
 - 📫 How to reach me **bingikarthika@gmail.com**
