@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karthika</h1>
 <h3 align="center">Passionate MERN Stack Developer 🚀 | Crafting seamless web experiences with MongoDB, Express.js, React, and Node.js | Code enthusiast and problem solver 💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthika-49&label=Profile%20views&color=0e75b6&style=flat" alt="karthika-49" /> </p>
-
 - 🔭 I’m currently working on [Class Library](https://github.com/karthika-49/classlibrary)
 
 - 🌱 I’m currently learning **MERN stack**
@@ -11,11 +9,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/karthikabingi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikabingi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/karthika_49" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karthika_49" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/karthika_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthika_49" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/karthika_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karthika_49" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/karthika_49" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthika_49" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/karthikabingi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikabingi" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/karthika_49" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="karthika_49" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/karthika_49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="karthika_49" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/karthika_49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="karthika_49" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/karthika_49" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthika_49" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
