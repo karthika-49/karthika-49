@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karthika</h1>
-<h3 align="center">Passionate MERN Stack Developer 🚀 | Crafting seamless web experiences with MongoDB, Express.js, React, and Node.js | Code enthusiast and problem solver 💻</h3>
+<h3 align="center">Aspiring MERN Stack Developer 🚀 | Crafting seamless web experiences with MongoDB, Express.js, React, and Node.js | Code enthusiast and problem solver 💻</h3>
 
 - 🌱 I’m currently learning **MERN stack**
 
